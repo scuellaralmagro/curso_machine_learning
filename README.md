@@ -1,6 +1,6 @@
 # Curso - Machine Learning
 
-Ejercicios del curso de Machine Learning realizado en Febrero de 2022. Los ejercicios están hechos en Jupyter Notebooks, en lenguaje python.
+Ejercicios del curso de Machine Learning realizado en Febrero de 2022. Los ejercicios están hechos en Jupyter Notebooks, en lenguaje Python.
 
 ## Lista de ejercicios - Día 1
 
