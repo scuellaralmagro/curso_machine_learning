@@ -4,6 +4,8 @@ Ejercicios del curso de Machine Learning realizado en Febrero de 2022. Los ejerc
 
 ## Lista de ejercicios - Día 1
 
+En el primer día se realizaron principalmente ejercicios de repaso de conceptos de sintaxis en Python.
+
 - M5_01_Python_Notebook: notebook introductorio de sintaxis en Python.
 - M5_02_Condicionales: ejercicios introductorios de condicionales.
 - M5_03_Bucles: ejercicios sobre bucles for y while.
