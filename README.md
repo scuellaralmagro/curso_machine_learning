@@ -17,3 +17,8 @@ En el primer día se realizaron principalmente ejercicios de repaso de conceptos
 ### Día 2
 
 En el segundo día se realizo un proyecto de ETL y análisis de datos con datos de lanzamientos de cohetes de la compañía SpaceX.
+
+- SpaceX_1_Data_Collection_Api: realización de ETL para la obtención y tratamiento de datos usando la API de SpaceX.
+- SpaceX_2_EDA: realización de análisis exploratorio de los datos y obtención de las primeras conclusiones.
+- SpaceX_3_EDA_Using_SQL: carga de los datos a base de datos MySQL y práctica de querys.
+- SpaceX_4_EDA_with_Data_Visualization: visualización de datos usando matplotlib y seaborn, y posterior análisis de los resultados.
