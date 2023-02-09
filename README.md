@@ -22,3 +22,9 @@ En el segundo día se realizo un proyecto de ETL y análisis de datos con datos 
 - SpaceX_2_EDA: realización de análisis exploratorio de los datos y obtención de las primeras conclusiones.
 - SpaceX_3_EDA_Using_SQL: carga de los datos a base de datos MySQL y práctica de querys.
 - SpaceX_4_EDA_with_Data_Visualization: visualización de datos usando matplotlib y seaborn, y posterior análisis de los resultados.
+
+### Día 3
+
+- M5_09_Folium: creación de mapas interactivos y aplicación de datasets a los mismos haciendo uso de la librería Foium.
+- Prophet_Predecir_el_valor_de_ETH: predicción del valor de ETH en un periodo de 365 días utilizando datos de Yahoo Finance y la librería Prophet de Meta.
+- M5_06_Introducción_a_Machine_Learning_con_Scikit_Learn: práctica con modelos de predicción de la librería Scikit-learn, como KNeighborsRegressor, LinearRegression y RidgeRegression.
