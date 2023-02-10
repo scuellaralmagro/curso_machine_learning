@@ -34,4 +34,5 @@ En el segundo día se realizo un proyecto de ETL y análisis de datos con datos 
 - **M5_SPACEX_2_5_Interactiva_Visual_Analytics_con_Folium.ipynb**: creación de mapas interactivos, esta vez haciendo uso de el dataset de SpaceX preparado anteriormente.
 - **M5_SPACEX_2_6_Machine_Learning_Predicciones.ipynb**: aplicación de varios modelos de ML al dataset de SpaceX para predecir el correcto aterrizaje de los lanzamientos.
 - **M5_08_Regresión_Lineal.ipynb**: práctica extra, con explicación en detalle de conceptos relacionados con regresión lineal.
-- **M%_07_Regresión.ipynb**: práctica extra de predicciones con modelos de regresión lineal haciendo uso de un dataset de un concesionario.
+- **M5_07_Regresión.ipynb**: práctica extra de predicciones con modelos de regresión lineal haciendo uso de un dataset de un concesionario.
+- **M4_ETL.ipynb**: práctica extra sobre ETLs.
